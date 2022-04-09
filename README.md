@@ -11,3 +11,5 @@ los que antes se habían aprendido.
 //git push origin main
 //git commit -am "mensaje"
 
+Esta es una variación para crear una nueva rama llamada Checo
+
