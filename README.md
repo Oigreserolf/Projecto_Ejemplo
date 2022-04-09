@@ -9,5 +9,5 @@ los que antes se habían aprendido.
 //git fetch
 //git pull origin main
 //git push origin main
-//git commit -am "mansaje"
+//git commit -am "mensaje"
 
